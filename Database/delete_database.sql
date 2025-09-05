@@ -1,0 +1,9 @@
+SET FOREIGN_KEY_CHECKS = 0;
+
+TRUNCATE TABLE `menu_plan`;
+TRUNCATE TABLE `recipe_ingredients`;
+TRUNCATE TABLE `inventory`;
+TRUNCATE TABLE `recipes`;
+TRUNCATE TABLE `stock_items`;
+
+SET FOREIGN_KEY_CHECKS = 1;
