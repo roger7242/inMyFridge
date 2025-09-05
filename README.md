@@ -57,7 +57,7 @@ Follow these steps to get the application running on your local machine.
 
 ### 2\. Clone the Repository
 
-`git clone [https://github.com/roger7242/inMyFridge](https://github.com/roger7242/inMyFridge)`
+`git clone [https://github.com/roger7242/inMyFridge.git](https://github.com/roger7242/inMyFridge.git)`
 
 `cd inMyFridge/inMyFridge`
 (Note: Navigate into the application subfolder to run Streamlit)
